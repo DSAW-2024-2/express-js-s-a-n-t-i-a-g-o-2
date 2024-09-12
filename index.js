@@ -17,6 +17,7 @@ const students = {
   }
 };
 
+
 // Endpoint principal que indica que el endpoint está funcional
 app.get('/', (req, res) => {
     res.send('Endpoint funcional');
