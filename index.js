@@ -10,7 +10,7 @@ const students = {
     id: '305850'
   },
   2: {
-    name: 'Santiago santiago',
+    name: 'Santiago',
     lastName: 'Urrego Rodriguez',
     email: 'santiagourro@unisabana.edu.co',
     id: '285468'
